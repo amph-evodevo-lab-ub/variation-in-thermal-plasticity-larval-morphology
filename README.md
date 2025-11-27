@@ -56,7 +56,7 @@ Steps:
 - Extract the symmetric shape component
 
 _Output:_  
-- Shape (symmetrized Procrustes coordinates)  
+- Shape (symmetric component)  
 - Size (centroid size)
 
 ---
@@ -137,3 +137,4 @@ Email: mihajlo.milic155@gmail.com
 Tijana Vucic  
 Leiden University – Institute of Biology Leiden, University of Belgrade – Faculty of Biology  
 Email: tijana.vucic@bio.bg.ac.rs 
+
