@@ -1,6 +1,6 @@
 # Variation in thermal plasticity of larval morphology among crested newt species and their reciprocal hybrids (Salamandridae: Triturus)
 
-This repository includes R scripts and data for analysing the effect of elevated temperature on larval morphology in Triturus newts 
+This repository includes R scripts and data for analysing the effect of elevated temperature on larval morphology in Triturus newts.
 We explored effect of temperature on two morphological structures:
 - Head: analysing size and shape variation
 - Tail: analysing size and shape variation
@@ -137,4 +137,5 @@ Email: mihajlo.milic155@gmail.com
 Tijana Vucic  
 Leiden University – Institute of Biology Leiden, University of Belgrade – Faculty of Biology  
 Email: tijana.vucic@bio.bg.ac.rs 
+
 
