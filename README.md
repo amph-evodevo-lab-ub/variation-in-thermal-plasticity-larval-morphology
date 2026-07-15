@@ -123,7 +123,7 @@ _Output:_
 
 If using this workflow in your publication, please cite:
 
-> Milic, M., Ivanovic, A., Nikolic, S., Avdalovic, A., Petrovic, T., Prokic, M., Vucic, T. (2025). Variation in thermal plasticity of larval morphology among crested newt species and their reciprocal hybrids (Salamandridae: Triturus) (2025), Under Review
+>Milić, M., Ivanović, A., Nikolić, S., Avdalović, A., Petrović, T., Prokić, M. and Vučić, T., 2026. Variation in thermal plasticity of larval morphology among crested newt species and their reciprocal hybrids (Salamandridae: Triturus). Journal of Thermal Biology, 104479, https://doi.org/10.1016/j.jtherbio.2026.104479
 
 ---
 
